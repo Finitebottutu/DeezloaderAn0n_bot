@@ -6,13 +6,13 @@ This project has been created for integrate deezloader library in a Telegram bot
 - I am not responsible for the usage of this program by other people.
 - I do not recommend you doing this illegally or against Deezer's terms of service.
 - This project is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 ## Installation
 	apt install ffmpeg
 	git clone https://github.com/An0nimia/DeezloaderAn0n_bot.git
 	pip3 install -r requirements.txt
 	chmod +x dwsongs-normal.py && ./dwsongs-normal.py
-	<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+	
 
 ## Settings
 	[login]
