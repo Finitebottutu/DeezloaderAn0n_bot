@@ -12,6 +12,7 @@ This project has been created for integrate deezloader library in a Telegram bot
 	git clone https://github.com/An0nimia/DeezloaderAn0n_bot.git
 	pip3 install -r requirements.txt
 	chmod +x dwsongs-normal.py && ./dwsongs-normal.py
+	<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## Settings
 	[login]
